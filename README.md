@@ -2,7 +2,7 @@
 
 ![intro](intro.png)
 
-### OMAR RASHED ALMANIFI
+### OMAR RASHED ALMANIFI <a href="mailto:omarrashedalmanifi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 ### *Computer Science Graduate | IT Support & Infrastructure | Troubleshooting • Networking • Server Deployment | Cross-Cultural Communicator*
 
 I am a Computer Science graduate from Universiti Sains Malaysia (USM), specializing in Computing Infrastructure.
@@ -41,7 +41,3 @@ with hands-on experience in web development and cloud-native technologies, with 
 ## Systems & Infrastructure: 
 `Linux basics, server installation, network configuration (routers, switches).`
 
-
-
-
-[Email]:(omarrashedalmanifi@gmail.com)  
